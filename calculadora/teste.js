@@ -4,6 +4,7 @@ var tela = document.querySelector("input[type=tel]")
 let n1 = '';
 let n2 = '';
 let varop = '';
+let bufferop = '';
 let operador = false
 
 botoes.forEach(function(bot){
